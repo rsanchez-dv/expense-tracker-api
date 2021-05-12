@@ -24,9 +24,9 @@ hs_err_pid*
 
 .mvn/
 .settings/
-.target/
+/target/
 target/classes/application.properties
-src/main/resources/application.properties
-.gitignore
-target/classes/application.properties
-target/
+target/classes/application.properties.template.txt
+target/classes/com/workFromHome/expensetrackerapi/ExpenseTrackerApiApplication.class
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/test-classes/com/workFromHome/expensetrackerapi/ExpenseTrackerApiApplicationTests.class
