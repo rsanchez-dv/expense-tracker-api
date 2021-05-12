@@ -26,3 +26,7 @@ hs_err_pid*
 .settings/
 .target/
 target/classes/application.properties
+src/main/resources/application.properties
+.gitignore
+target/classes/application.properties
+target/
