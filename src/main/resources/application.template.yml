@@ -1,6 +1,0 @@
-spring:
-  datasource:
-    driverClassName: 
-    url: 
-    username: 
-    password: 
