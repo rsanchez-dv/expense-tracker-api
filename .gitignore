@@ -31,3 +31,5 @@ target/classes/com/workFromHome/expensetrackerapi/ExpenseTrackerApiApplication.c
 target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 target/test-classes/com/workFromHome/expensetrackerapi/ExpenseTrackerApiApplicationTests.class
 src/main/resources/application.yml
+
+.idea/
